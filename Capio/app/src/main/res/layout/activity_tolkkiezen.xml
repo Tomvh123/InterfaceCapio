@@ -27,5 +27,4 @@ android:background="@android:color/holo_orange_dark">
     android:background="@android:color/white">
 
 </ListView>
-
 </LinearLayout>
